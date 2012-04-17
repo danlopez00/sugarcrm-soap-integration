@@ -1,0 +1,5 @@
+SugarCRM SOAP with PHP5 
+-----------------------
+
+This is a class that requires PHP5 with native SOAP library. SugarCRM has a conflict with PHP5 and NuSOAP (so dont use it) 
+Dont use SOAP compression as SugarCRM has issue with this in v5.0+
